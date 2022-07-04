@@ -13,7 +13,7 @@
             <Font name="System Bold" size="26.0" />
          </font>
       </Label>
-      <Label fx:id="captchaLabel" alignment="CENTER" contentDisplay="CENTER" layoutX="254.0" layoutY="113.0" prefHeight="27.0" prefWidth="93.0" style="-fx-background-color: #264248; -fx-border-radius: 5;" text="captcha" textFill="WHITE">
+      <Label fx:id="captchaLabel" alignment="CENTER" contentDisplay="CENTER" layoutX="254.0" layoutY="113.0" prefHeight="27.0" prefWidth="93.0" style="-fx-background-color: #251915; -fx-border-radius: 5;" text="captcha" textFill="WHITE">
          <font>
             <Font name="Ink Free" size="20.0" />
          </font>
